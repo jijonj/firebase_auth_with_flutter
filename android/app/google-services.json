@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052414099391",
+    "project_id": "myfirstproject-f32d2",
+    "storage_bucket": "myfirstproject-f32d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052414099391:android:39ed514ab2b6ddd79d2b0a",
+        "android_client_info": {
+          "package_name": "com.kintlearn.myfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052414099391-ic54nhe3mlrfv3kq246vfv9hc1864umr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCRigJcBZs0GxjlkwhFqxhiBuDGHRvDsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052414099391-ic54nhe3mlrfv3kq246vfv9hc1864umr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
